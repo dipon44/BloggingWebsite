@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\C#\\Blogging Website\\BloggingWebsite\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBC733D-C284-4CAF-BF41-37B5BE7EBADC}|BloggingWebsite\\BloggingWebsite.csproj|g:\\c#\\blogging website\\bloggingwebsite\\bloggingwebsite\\bloggingwebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFBC733D-C284-4CAF-BF41-37B5BE7EBADC}|BloggingWebsite\\BloggingWebsite.csproj|solutionrelative:bloggingwebsite\\bloggingwebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloggingWebsite",
+              "DocumentMoniker": "G:\\C#\\Blogging Website\\BloggingWebsite\\BloggingWebsite\\BloggingWebsite.csproj",
+              "RelativeDocumentMoniker": "BloggingWebsite\\BloggingWebsite.csproj",
+              "ToolTip": "G:\\C#\\Blogging Website\\BloggingWebsite\\BloggingWebsite\\BloggingWebsite.csproj*",
+              "RelativeToolTip": "BloggingWebsite\\BloggingWebsite.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-07T17:19:24.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
